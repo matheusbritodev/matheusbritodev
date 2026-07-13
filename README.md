@@ -26,28 +26,15 @@
 
 ## Estatisticas GitHub
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img
-          height="180em"
-          src="https://github-readme-stats-fast.vercel.app/api?username=matheusbritodev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&rank_icon=github"
-          alt="GitHub stats"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img
-          height="180em"
-          src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=matheusbritodev&theme=tokyonight&layout=compact&langs_count=10&hide_progress=false&size_weight=0.5&count_weight=0.5&custom_title=Linguagens%20dos%20Repositorios"
-          alt="Linguagens mais usadas com porcentagem"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="180em"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=matheusbritodev&theme=tokyonight&layout=compact&langs_count=10&hide_progress=false&size_weight=0.5&count_weight=0.5&custom_title=Linguagens%20dos%20Repositorios"
+      alt="Linguagens mais usadas com porcentagem"
+    />
+  </a>
+</div>
 
 ---
 
