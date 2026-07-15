@@ -1,5 +1,5 @@
 <h1 align="center">Matheus Brito</h1>
-<h3 align="center">Estudante de Engenharia de Software | Full Stack em formação</h3>
+<h3 align="center">Desenvolvedor Full Stack | Node.js | JavaScript | Python </h3>
 
 <p align="center">
   <a href="mailto:matheusbritodev1@gmail.com">
