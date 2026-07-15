@@ -17,9 +17,9 @@
 
 ## Sobre mim
 
-- Estudante de Engenharia de Software focado em JavaScript e POO**
-- Crio bases sólidas com ES6+, manipulação de DOM e Clean Code**
-- Foco em construir soluções web que resolvem problemas reais**
+- Estudante de Engenharia de Software focado em JavaScript e POO
+- Crio bases sólidas com ES6+, manipulação de DOM e Clean Code
+- Foco em construir soluções web que resolvem problemas reais
 
 ---
 
